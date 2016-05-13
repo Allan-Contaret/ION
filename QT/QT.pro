@@ -12,9 +12,11 @@ TEMPLATE = app
 SOURCES += main.cpp \
     cpu.cpp \
     mainwindow.cpp \
-    mem.cpp
+    mem.cpp \
+    flux.cpp
 
 HEADERS += \
     cpu.h \
     mainwindow.h \
-    mem.h
+    mem.h \
+    flux.h
